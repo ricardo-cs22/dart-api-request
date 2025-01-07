@@ -1,0 +1,1 @@
+ C:\\Users\\INTERMAT\\Documents\\GitHub\\juridico\\.dart_tool\\flutter_build\\242ac73f96313c7f6cec8b25bc11fda9\\native_assets.yaml: 
