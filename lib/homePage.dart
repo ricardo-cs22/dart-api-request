@@ -42,6 +42,7 @@ class _MyHomePageState extends State<MyHomePage> {
               return ListView.builder(
                   itemCount: snapshot.data!.length,
                   itemBuilder: (context, index) {
+                    if(snapshot.has)
                     return ListTile(
                       title: Text(snapshot.data![index]["nome"]),
                     );
